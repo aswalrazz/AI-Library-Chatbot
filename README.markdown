@@ -1,4 +1,4 @@
-# AI-Powered Research Paper Reviewer
+# AI-Powered Research Paper Reviewer & Chatbot
 
 This Streamlit-based web application analyzes research papers in PDF or DOCX format using advanced NLP models and AI APIs. It provides summaries, readability scores, coherence analysis, improvement suggestions, and visualizations like word clouds and sentence length distributions. Additionally, it includes an AI-powered library chatbot and a research project finder powered by the Gemini 1.5 API.
 
